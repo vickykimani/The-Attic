@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "748564530047",
+    "project_id": "the-attic-94fa7",
+    "storage_bucket": "the-attic-94fa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748564530047:android:88171ef40df8f13dba504a",
+        "android_client_info": {
+          "package_name": "com.vicky.theattic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748564530047-qtfgp40ouccg4lt447jc5ba0bli9mvvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG-gCCfD5vke1GogbZZRxmrR8MN4-KYpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748564530047-qtfgp40ouccg4lt447jc5ba0bli9mvvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
