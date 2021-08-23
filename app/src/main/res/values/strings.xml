@@ -20,18 +20,15 @@
     <string name="login">Login</string>
     <string name="enter_password">Enter Password</string>
     <string name="enter_email">Enter Email</string>
-    <string name="login">Login</string>
-    <string name="post_description">Post Description</string>
-    <string name="post_title">Post Title</string>
     <string name="post">Post</string>
     <string name="likes">Likes</string>
     <string name="_0">0</string>
+    <string name="set_profile">Set Profile</string>
     <string name="post_description">Post Description</string>
     <string name="post_title">Post Title</string>
     <string name="date">date</string>
     <string name="time">time</string>
     <string name="vicky">Vicky</string>
+    <string name="addPost">Add Post</string>
     <string name="delete_post">delete post</string>
-    <string name="post_description">Post Description</string>
-    <string name="post_title">Post Title</string>
 </resources>

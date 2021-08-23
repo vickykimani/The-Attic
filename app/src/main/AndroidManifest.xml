@@ -19,7 +19,7 @@
         <activity
             android:name=".PostActivity"
             android:exported="true"
-            android:label="@string/addpost" />
+            android:label="@string/addPost" />
         <activity
             android:name=".ProfileActivity"
             android:exported="true"

@@ -7,8 +7,6 @@ import android.os.Bundle;
 import com.firebase.ui.database.FirebaseRecyclerAdapter;
 import com.firebase.ui.database.FirebaseRecyclerOptions;
 import com.firebase.ui.database.SnapshotParser;
-import com.google.android.material.floatingactionbutton.FloatingActionButton;
-import com.google.android.material.snackbar.Snackbar;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.database.DataSnapshot;
@@ -113,7 +111,7 @@ public class MainActivity extends AppCompatActivity {
             }
 
             @Override
-            protected void onBindViewHolder(@NonNull AtticViewHolder holder, int positon, @NonNull Attic model) {
+            protected void onBindViewHolder(@NonNull AtticViewHolder holder, int position, @NonNull Attic model) {
                 final String post_key = getRef(position).getKey();
 
                 holder.setTitle(model.getTitle());
